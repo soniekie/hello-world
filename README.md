@@ -3,4 +3,4 @@ just another repository
 
 Hello Humans
 
-welcome to my compicated hood
+welcome to my complicated hood
